@@ -6,3 +6,4 @@ kursam "Machine Learning un prognozēšanas modeļi".
 ## Struktūra
 - `week1/` — 1. nedēļas darbs (ievads ML)
 - `week2/` — 2. nedēļas darbs (Datu sagatavošana)
+- `week3/` — 3. nedēļas darbs (Klasifikācija)
